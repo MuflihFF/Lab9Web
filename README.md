@@ -64,12 +64,12 @@ Implementasikan konsep modularisasi pada kode program praktikum 8 tentang databa
 
 7.  Selanjutnya kita modularkan halaman tambah dengan membuat file baru header_tambah.php, kita ambil bagian header sesuai dengan yang dibutuhkan pada file tambah.php di praktikum 8.
 <p>
-8.  Buat file footer_tambah.php yang kita ambil dari tambah.php pada praktikum 8
+ 8.  Buat file footer_tambah.php yang kita ambil dari tambah.php pada praktikum 8
 <p>
-9.  Kemudian coba buka pada browser dengan klik nav tambah atau dengan link : http://localhost/lab9_php_modular/tugas_modular/tambah.php  
+ 9.  Kemudian coba buka pada browser dengan klik nav tambah atau dengan link : http://localhost/lab9_php_modular/tugas_modular/tambah.php  
   
 ![14](https://user-images.githubusercontent.com/101880025/171398038-1368ff21-fc4e-448b-a01f-5f2a43d1607d.png)
 
-10. Selanjutnya kita modularkan halaman ubah dengan membuat file baru header_ubah.php, kita ambil bagian header sesuai dengan yang dibutuhkan pada file ubah.php di praktikum 8.
+ 10. Selanjutnya kita modularkan halaman ubah dengan membuat file baru header_ubah.php, kita ambil bagian header sesuai dengan yang dibutuhkan pada file ubah.php di  praktikum 8.
 <p>  
-11. Buat file footer_ubah.php yang kita ambil dari ubah.php pada praktikum 8
+ 11. Buat file footer_ubah.php yang kita ambil dari ubah.php pada praktikum 8
